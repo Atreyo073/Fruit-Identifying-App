@@ -1,0 +1,62 @@
+body
+{
+    color: lime;
+    background-size: cover;
+}
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+#Fruit_Name
+{
+    background-color: red;
+    color: yellow;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#Fruit_Accuracy
+{
+    background-color: red;
+    color: yellow;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+#Heading
+{
+    width: fill;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: red;
+    background-color: skyblue;
+}
+#snapshot
+{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+#identify
+{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+#footer
+{
+    width: 400px;
+    height: 300px;
+    float: none;
+}
+#div_footer
+{
+    font-size: 50px;
+    text-align: center;
+    background-color: lime;
+}
